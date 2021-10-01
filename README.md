@@ -49,10 +49,10 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+  
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -81,16 +81,8 @@ To get a local copy up and running follow these simple example steps.
 * JQuery Basics
   
 <!-- USAGE EXAMPLES -->
-## Usage
-<ul>
-  <li>Screenshots:</li>
-</ul>
-  [![Product Name Screen Shot][img2]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
-  [![Product Name Screen Shot][img3]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
-  
 
-
-
+ 
 <!-- ROADMAP -->
 ## Roadmap
 See the [open issues](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues) for a list of proposed features (and known issues) & also you can request the same :sparkles:.
