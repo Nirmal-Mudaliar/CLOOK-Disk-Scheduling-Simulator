@@ -137,6 +137,7 @@ Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulat
 [license-url]: https://github.com/sauravpanchal/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nirmal-mudaliar-318b14218/
+[img1]: Project-Images/img1.JPG
 [img2]: Project-Images/img2.JPG
 [img3]: Project-Images/img3.JPG
 
