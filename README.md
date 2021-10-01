@@ -123,7 +123,7 @@ Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulat
 [issues-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues
 [stars-shield]: https://img.shields.io/github/stars/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
 [stars-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/stargazers
-[license-shield]: https://img.shields.io/github/license/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
 [license-url]: https://github.com/sauravpanchal/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nirmal-mudaliar-318b14218/
