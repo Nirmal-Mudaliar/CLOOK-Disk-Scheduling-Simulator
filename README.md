@@ -55,7 +55,6 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -80,32 +79,15 @@ To get a local copy up and running follow these simple example steps.
 * CSS Basics
 * Javascript Basics
 * JQuery Basics
-
-
-<!-- ### Installation
-1. Clone the repo
-   ```
-   git clone https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator.git
-   ```
-2. Install PyQt5 module
-   ```
-   pip install PyQt5
-   ```
-3. _(Optional)_Install PyQt5 tools to get Qt desiner
-   ```
-   pip install pyqt5-tools
-   ```
-   The "designer.exe" will be installed in 
-   ```
-   ...Lib\site-packages\pyqt5_tools
-   ```
-   (You can also create shortcut for the same to access it more easily.)
-   -->
   
 <!-- USAGE EXAMPLES -->
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-_For more examples, please refer to the [PyQt5 Documentation](https://doc.qt.io/qtforpython/)_
+<ul>
+  <li>Screenshots:</li>
+</ul
+  
+
+
 
 <!-- ROADMAP -->
 ## Roadmap
