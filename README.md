@@ -27,9 +27,9 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
     <br />
     <a href="https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator">View Demo</a>
     ·
-    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Report Bug</a>
+    <a href="https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Request Feature</a>
+    <a href="https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues">Request Feature</a>
     <br>
     <a href="https://drive.google.com/file/d/1zrVzwQQajaYcCv46PXqYw9XagCw20EVN/view?usp=sharing">Documentation (PDF)</a>
   </p>
@@ -109,7 +109,7 @@ _For more examples, please refer to the [PyQt5 Documentation](https://doc.qt.io/
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues) for a list of proposed features (and known issues) & also you can request the same :sparkles:.
+See the [open issues](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues) for a list of proposed features (and known issues) & also you can request the same :sparkles:.
 
 
 <!-- CONTRIBUTIONS -->
@@ -145,7 +145,7 @@ Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulat
 [forks-shield]: https://img.shields.io/github/forks/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
 [forks-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/network/members
 [issues-shield]: https://img.shields.io/github/issues/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
-[issues-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues
+[issues-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues
 [stars-shield]: https://img.shields.io/github/stars/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
 [stars-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/stargazers
 [license-shield]: https://img.shields.io/github/license/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
