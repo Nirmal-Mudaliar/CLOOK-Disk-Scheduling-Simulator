@@ -84,9 +84,8 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 <ul>
   <li>Screenshots:</li>
-</ul
+</ul>
   [![Product Name Screen Shot][img2]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
-  
   [![Product Name Screen Shot][img3]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
   
 
