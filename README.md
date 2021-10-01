@@ -66,8 +66,10 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
 
 ### Built With
-* [PyQt5](https://doc.qt.io/qtforpython/)
-* [Qt Designer](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator#installation)
+* [HTML]
+* [CSS]
+* [javascript]
+* [Bootstrap]
 
 <!-- GETTING STARTED -->
 ## Getting Started
