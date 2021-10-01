@@ -13,19 +13,19 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator">
+  <a href="https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator">
     <img src="icon.png" alt="Logo">
   </a>
 
-  <h3 align="center">fcfs-disk-scheduling-simulator</h3>
+  <h3 align="center">CLOOK-disk-scheduling-simulator</h3>
 
   <p align="center">
-    A basic fcfs-disk-scheduling-algorithm simulating application
+    A basic clook-disk-scheduling-algorithm simulating application
     <br />
-    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator">View Demo</a>
+    <a href="https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator">View Demo</a>
     ·
     <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Report Bug</a>
     ·
@@ -63,7 +63,7 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
 
 ### Built With
 * [PyQt5](https://doc.qt.io/qtforpython/)
@@ -125,9 +125,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Saurav Panchal 
-- Mail : saurav.panchal.08@gmail.com
-- Links : [Linktree](https://linktr.ee/sauravpanchal)
+Nirmal Mudaliar
+- Mail : nirmalmudaliar22@gmail.com
+- Links : [Linktree](https://linktr.ee/NirmalMudaliar)
 
 Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 
@@ -147,5 +147,5 @@ Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator]
 [license-shield]: https://img.shields.io/github/license/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
 [license-url]: https://github.com/sauravpanchal/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/sauravpanchal
+[linkedin-url]: https://www.linkedin.com/in/nirmal-mudaliar-318b14218/
 
