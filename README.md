@@ -115,8 +115,8 @@ Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulat
 
 * [Forum](https://stackoverflow.com/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/sauravpanchal/fcfs-disk-scheduling-simulator.svg?style=for-the-badge&color=brightgreen
-[contributors-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator.svg?style=for-the-badge&color=brightgreen
+[contributors-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/graphs/contributors
 [forks-shield]:https://img.shields.io/github/forks/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
 [forks-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/network/members
 [issues-shield]: https://img.shields.io/github/issues/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
@@ -124,7 +124,7 @@ Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulat
 [stars-shield]: https://img.shields.io/github/stars/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
 [stars-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/stargazers
 [license-shield]: https://img.shields.io/github/license/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
-[license-url]: https://github.com/sauravpanchal/LICENSE
+[license-url]: https://github.com/Nirmal-Mudaliar/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nirmal-mudaliar-318b14218/
 [img1]: Project-Images/img1.JPG
