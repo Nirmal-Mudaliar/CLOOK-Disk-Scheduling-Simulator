@@ -31,7 +31,7 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
     ·
     <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Request Feature</a>
     <br>
-    <a href="https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing">Documentation (PDF)</a>
+    <a href="https://drive.google.com/file/d/1zrVzwQQajaYcCv46PXqYw9XagCw20EVN/view?usp=sharing">Documentation (PDF)</a>
   </p>
 </p>
 
