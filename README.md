@@ -118,7 +118,7 @@ Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulat
 [contributors-shield]: https://img.shields.io/github/contributors/sauravpanchal/fcfs-disk-scheduling-simulator.svg?style=for-the-badge&color=brightgreen
 [contributors-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/graphs/contributors
 [forks-shield]:https://img.shields.io/github/forks/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
-[forks-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/network/members
+[forks-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/network/members
 [issues-shield]: https://img.shields.io/github/issues/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
 [issues-url]: https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator/issues
 [stars-shield]: https://img.shields.io/github/stars/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator?style=for-the-badge
