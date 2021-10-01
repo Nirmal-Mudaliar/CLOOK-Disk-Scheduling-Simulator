@@ -62,7 +62,7 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
+[![Product Name Screen Shot][img1]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
 
 ### Built With
 * HTML
