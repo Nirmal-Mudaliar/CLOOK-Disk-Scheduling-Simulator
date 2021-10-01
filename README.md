@@ -66,21 +66,23 @@ Circular LOOK disc scheduling simulation can be viewed and anlyse using graph
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
 
 ### Built With
-* [HTML]
-* [CSS]
-* [javascript]
-* [Bootstrap]
+* HTML
+* CSS
+* Javascript
+* Bootstrap
 
 <!-- GETTING STARTED -->
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-* Python Basics
-* PyQt5 Module
-* GUI Programming
+* HTML Basics
+* CSS Basics
+* Javascript Basics
+* JQuery Basics
 
-### Installation
+
+<!-- ### Installation
 1. Clone the repo
    ```
    git clone https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator.git
@@ -98,7 +100,7 @@ To get a local copy up and running follow these simple example steps.
    ...Lib\site-packages\pyqt5_tools
    ```
    (You can also create shortcut for the same to access it more easily.)
-  
+   -->
   
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -131,11 +133,11 @@ Nirmal Mudaliar
 - Mail : nirmalmudaliar22@gmail.com
 - Links : [Linktree](https://linktr.ee/NirmalMudaliar)
 
-Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+Project Link : [https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator](https://github.com/Nirmal-Mudaliar/CLOOK-Disk-Scheduling-Simulator)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [PyQt5 Documentation](https://doc.qt.io/qtforpython/)
+
 * [Forum](https://stackoverflow.com/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/sauravpanchal/fcfs-disk-scheduling-simulator.svg?style=for-the-badge&color=brightgreen
